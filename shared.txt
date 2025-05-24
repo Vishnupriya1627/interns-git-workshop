@@ -1,1 +1,2 @@
 Actual content before any changes from anyone
+Change from User A into shared.txt
